@@ -1,6 +1,6 @@
+ChanceToAppear=1/2
+SkipLastCheck=true
 {
-  "chanceToAppearNumerator": 1,
-  "chanceToAppearDenominator": 2,
   "adVariants": [
     {
       "id": "001",
