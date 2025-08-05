@@ -11,14 +11,14 @@ SkipLastCheck=true
     {
       "id": "002",
       "shouldAppear": true,
-      "url": "https://smoredboardinstaller2.blob.core.windows.net/adstuff/freeTrial1.png",
-      "buttonText": "Start Your Trial"
+      "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardad%20unlimitedProfiles%20ad1.png",
+      "buttonText": "Get Pro"
     },
     {
       "id": "003",
       "shouldAppear": true,
-      "url": "https://smoredboardinstaller2.blob.core.windows.net/adstuff/freeTrial1.png",
-      "buttonText": "Get Access"
+      "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardad%20unlimitedProfiles%20ad1.png",
+      "buttonText": "Try For Free"
     }
   ]
 }
