@@ -1,4 +1,6 @@
 {
+  "chanceToAppearNumerator": 1,
+  "chanceToAppearDenominator": 2,
   "adVariants": [
     {
       "id": "001",
