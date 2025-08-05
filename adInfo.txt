@@ -1,4 +1,4 @@
-ChanceToAppear=1/2
+ChanceToAppear=1/1
 SkipLastCheck=true
 {
   "adVariants": [
