@@ -16,7 +16,7 @@ SkipLastCheck=true
     },
     {
       "id": "003",
-      "shouldAppear": false,
+      "shouldAppear": true,
       "url": "https://smoredboardinstaller2.blob.core.windows.net/adstuff/freeTrial1.png",
       "buttonText": "Get Access"
     }
