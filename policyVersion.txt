@@ -1,0 +1,2 @@
+PrivacyPolicyVersion=1
+TermsOfUseVerion=1
