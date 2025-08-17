@@ -1,0 +1,5 @@
+PhoneTutorial=https://youtu.be/kpiT9kwNtQs
+GetProPage=https://www.smoredboard.com/get-pro?utm_source=smoredboard_app&utm_medium=app&utm_campaign=get_pro
+SmoredProfile=https://www.smoredboard.com/news/smoredboard-browser
+UseBuiltInPro=false
+IntegratedProUrl=https://www.smoredboard.com/smoredboard-pro-pricing-in-smoredboard
