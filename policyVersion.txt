@@ -1,2 +1,2 @@
-PrivacyPolicyVersion=3
+PrivacyPolicyVersion=2
 TermsOfUseVerion=2
