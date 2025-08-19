@@ -1,4 +1,4 @@
-ShouldAppear=true
+ShouldAppear=false
 URL=https://smoredboardinstaller2.blob.core.windows.net/announcements/smoredboardreorganizationfree.png
 ButtonText=Learn More
 ButtonLink=https://www.smoredboard.com/news/free-reorganization
