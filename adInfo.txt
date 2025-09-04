@@ -3,9 +3,9 @@ SkipLastCheck=true
 {
   "adVariants": [
     {
-      "id": "004",
+      "id": "006",
       "shouldAppear": true,
-      "url": "https://smoredboardinstaller2.blob.core.windows.net/adstuff/freeTrial1.png",
+      "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardaudiooutputprofilesad1.png",
       "buttonText": "Try For Free"
     },
     {
@@ -13,6 +13,30 @@ SkipLastCheck=true
       "shouldAppear": true,
       "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardad%20unlimitedProfiles%20ad1.png",
       "buttonText": "Try For Free"
+    },
+    {
+      "id": "007",
+      "shouldAppear": true,
+      "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardunlimitedeffectsad1.png",
+      "buttonText": "Try For Free"
+    },
+    {
+      "id": "008",
+      "shouldAppear": true,
+      "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardaudiooutputprofilesad1.png",
+      "buttonText": "Try For $0.00"
+    },
+    {
+      "id": "009",
+      "shouldAppear": true,
+      "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardad%20unlimitedProfiles%20ad1.png",
+      "buttonText": "Try For $0.00"
+    },
+    {
+      "id": "0010",
+      "shouldAppear": true,
+      "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardunlimitedeffectsad1.png",
+      "buttonText": "Try For $0.00"
     }
   ]
 }
