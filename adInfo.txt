@@ -33,7 +33,7 @@ SkipLastCheck=true
       "buttonText": "Try For $0.00"
     },
     {
-      "id": "0010",
+      "id": "010",
       "shouldAppear": true,
       "url": "https://raw.githubusercontent.com/SmoredBoard/smoredboard-info/main/smoredboardunlimitedeffectsad1.png",
       "buttonText": "Try For $0.00"
